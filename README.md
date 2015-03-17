@@ -1,5 +1,4 @@
 # Brewster : Cock Secret Agent
 
-Etant encore en voyage, je n'ai pas accès aux logiciels présents sur mon ordinateur, je n'ai donc pas pu avancé sur mon projet durant les vancances
-Je compte évidemment le rendre au plus vite. Mais cela ne pourra pas être dans les délais prévus ...
-Désolé.
+Les Modèles 3DS sont dans le dossier Brewster/Assets/Models. Le trailer à la racine.
+Je n'ai fait que le poulet sous 3DS, le reste est du Blender.
