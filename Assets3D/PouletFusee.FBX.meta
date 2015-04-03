@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 95461249c835c3047a6a895eded52c49
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AileD
+    100002: AileDroite
+    100004: AileG
+    100006: AileGauche
+    100008: Bec
+    100010: Corps
+    100012: Corps 1
+    100014: Crete
+    100016: JambeDroite
+    100018: JambeGauche
+    100020: PatteDroite
+    100022: PatteGauche
+    100024: //RootNode
+    100026: Tete
+    400000: AileD
+    400002: AileDroite
+    400004: AileG
+    400006: AileGauche
+    400008: Bec
+    400010: Corps
+    400012: Corps 1
+    400014: Crete
+    400016: JambeDroite
+    400018: JambeGauche
+    400020: PatteDroite
+    400022: PatteGauche
+    400024: //RootNode
+    400026: Tete
+    4300000: Corps
+    4300002: Tete
+    4300004: Bec
+    4300006: Crete
+    4300008: AileDroite
+    4300010: AileGauche
+    4300012: PatteGauche
+    4300014: PatteDroite
+    7400000: fly
+    7400002: takeOff
+    7400004: landing
+    7400006: idle
+    9500000: //RootNode
+    13700000: AileDroite
+    13700002: AileGauche
+    13700004: Bec
+    13700006: Corps
+    13700008: Crete
+    13700010: PatteDroite
+    13700012: PatteGauche
+    13700014: Tete
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AileDroite
+        weight: 1
+      - path: AileGauche
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps 1
+        weight: 1
+      - path: Corps 1/AileD
+        weight: 1
+      - path: Corps 1/AileG
+        weight: 1
+      - path: Corps 1/JambeDroite
+        weight: 1
+      - path: Corps 1/JambeGauche
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: PatteDroite
+        weight: 1
+      - path: PatteGauche
+        weight: 1
+      - path: Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: takeOff
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AileDroite
+        weight: 1
+      - path: AileGauche
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps 1
+        weight: 1
+      - path: Corps 1/AileD
+        weight: 1
+      - path: Corps 1/AileG
+        weight: 1
+      - path: Corps 1/JambeDroite
+        weight: 1
+      - path: Corps 1/JambeGauche
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: PatteDroite
+        weight: 1
+      - path: PatteGauche
+        weight: 1
+      - path: Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: landing
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10.3999996
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AileDroite
+        weight: 1
+      - path: AileGauche
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps 1
+        weight: 1
+      - path: Corps 1/AileD
+        weight: 1
+      - path: Corps 1/AileG
+        weight: 1
+      - path: Corps 1/JambeDroite
+        weight: 1
+      - path: Corps 1/JambeGauche
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: PatteDroite
+        weight: 1
+      - path: PatteGauche
+        weight: 1
+      - path: Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AileDroite
+        weight: 1
+      - path: AileGauche
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps 1
+        weight: 1
+      - path: Corps 1/AileD
+        weight: 1
+      - path: Corps 1/AileG
+        weight: 1
+      - path: Corps 1/JambeDroite
+        weight: 1
+      - path: Corps 1/JambeGauche
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: PatteDroite
+        weight: 1
+      - path: PatteGauche
+        weight: 1
+      - path: Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
